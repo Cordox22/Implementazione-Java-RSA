@@ -12,7 +12,7 @@
 
 # 
 
-# \## Funzionalità principali
+### Funzionalità principali
 
 # 
 
@@ -42,11 +42,11 @@
 
 # 
 
-# \## Struttura del progetto
+# ## Struttura del progetto
 
 # 
 
-# \### \*\*`RSA.java` — Core dell’algoritmo\*\*
+# ### **`RSA.java` — Core dell’algoritmo**
 
 # Classe centrale che implementa l’intero flusso matematico dell’algoritmo RSA:
 
@@ -74,7 +74,7 @@
 
 # 
 
-# \### \*\*`CodificaRSA.java` — Conversione tra testo e numeri\*\*
+# ### **`CodificaRSA.java` — Conversione tra testo e numeri**
 
 # Poiché RSA opera su numeri, questa classe fornisce i metodi necessari per:
 
@@ -94,7 +94,7 @@
 
 # 
 
-# \### \*\*`Messaggi.java` — Gestione dei messaggi\*\*
+# ### **`Messaggi.java` — Gestione dei messaggi**
 
 # Classe di supporto che centralizza la gestione dei messaggi da codificare e decodificare:
 
@@ -116,7 +116,7 @@
 
 # 
 
-# \### \*\*`NumeroNBits.java` — Configurazione della lunghezza delle chiavi\*\*
+# ### **`NumeroNBits.java` — Configurazione della lunghezza delle chiavi**
 
 # Permette di definire la dimensione delle chiavi RSA (es. 512, 1024, 2048 bit):
 
@@ -138,7 +138,7 @@
 
 # 
 
-# \### \*\*`Main.java` — Dimostrazione pratica\*\*
+# ### **`Main.java` — Dimostrazione pratica**
 
 # Contiene una \*\*dimostrazione completa e commentata\*\* del funzionamento del programma.  
 
@@ -168,7 +168,7 @@
 
 # 
 
-# \## Esempio di utilizzo
+# ## Esempio di utilizzo
 
 # 
 
